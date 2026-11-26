@@ -5,6 +5,6 @@ public class User {
 
   @Get("/details")
   public String getUser(){
-    return "Sharan"
+    return "Sharan Mirajgave"
   }
 }
